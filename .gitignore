@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# CRITICAL: Do not upload authorized face data
+authorized/
+*.jpg
+*.png
